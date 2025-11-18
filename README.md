@@ -45,13 +45,13 @@ fun_fact: Building Ferrari race strategies in my free time 🏎️
 <td width="50%">
 
 🏎️ **Ferrari Strategy Maker**
-> Analyzing tire degradation and optimizing pit stop strategies for Ferrari F1
+> Analyzing tire degradation and optimizing pit stop strategies for Ferrari FormualOne team. Unfortunately, can't fix their car.
 
 </td>
 <td width="50%">
 
 🛍️ **AuthentiFind**
-> Rust-powered luxury fashion authentication using blockchain provenance tracking
+> Rust-powered luxury fashion authentication using blockchain provenance tracking, so you only get the best quality authentic resale items.
 
 </td>
 </tr>
