@@ -187,9 +187,7 @@ fun_fact: Building Ferrari race strategies in my free time 🏎️
 <!-- GitHub Stats with Pastel Theme -->
 <div align="center">
 
-### 📊 ·˚ ༘ GitHub Stats ༘˚· 📊
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beta-test-initiation&show_icons=true&theme=calm_pink&include_all_commits=true&count_private=true&hide_border=true&bg_color=f6f3f9&title_color=8B7B9B&icon_color=C8A2C8&text_color=6B5B73"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beta-test-initiation&theme=calm-pink&hide_border=true&background=f6f3f9&ring=8B7B9B&fire=C8A2C8&currStreakLabel=6B5B73&sideLabels=8B7B9B&currStreakNum=6B5B73&sideNums=8B7B9B"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beta-test-initiation&layout=compact&langs_count=8&theme=calm_pink&hide_border=true&bg_color=f6f3f9&title_color=8B7B9B&text_color=6B5B73"/>
 
@@ -226,7 +224,7 @@ fun_fact: Building Ferrari race strategies in my free time 🏎️
 <!-- Connect Section -->
 <div align="center">
 
-### 💌 ·˚ ༘ Let's Connect ༘˚· 💌
+### 💌  Let's Connect  💌
 
 <a href="https://www.linkedin.com/in/tanya-work-ubc">
   <img src="https://img.shields.io/badge/LinkedIn-8B7B9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
